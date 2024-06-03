@@ -1,0 +1,16 @@
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 2px;
+}
+  
+app-square {
+    border: 1px rgb(247, 247, 247) solid;
+    height: 150px;
+     font-size: 400px ;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
